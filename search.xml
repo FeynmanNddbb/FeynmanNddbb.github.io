@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>经验教训</title>
+      <link href="/2025/09/15/%E7%BB%8F%E9%AA%8C%E6%95%99%E8%AE%AD/"/>
+      <url>/2025/09/15/%E7%BB%8F%E9%AA%8C%E6%95%99%E8%AE%AD/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-文件扩展名大小写的影响总结"><a href="#1-文件扩展名大小写的影响总结" class="headerlink" title="1.文件扩展名大小写的影响总结"></a>1.文件扩展名大小写的影响总结</h2><p>在文件管理和 Web 开发中，文件扩展名的大小写可能会导致访问异常，尤其是在不同操作系统下表现不同。</p><h3 id="为什么大小写有影响？"><a href="#为什么大小写有影响？" class="headerlink" title="为什么大小写有影响？"></a>为什么大小写有影响？</h3><ul><li><p><strong>Windows 系统</strong><br>文件路径通常不区分大小写。例如，<code>image.jpg</code> 和 <code>image.JPG</code> 被视为同一个文件，因此本地预览时不会出现问题。</p></li><li><p><strong>Linux&#x2F;Unix 系统</strong><br>大多数 Web 服务器运行在 Linux 或 Unix 系统上，这些系统区分大小写。<code>image.jpg</code> 和 <code>image.JPG</code> 会被当作两个不同的文件。</p></li></ul><h3 id="常见问题举例"><a href="#常见问题举例" class="headerlink" title="常见问题举例"></a>常见问题举例</h3><p>如果配置文件中写的是 <code>/images/wechat.jpg</code>，但实际上传的文件名是 <code>wechat.JPG</code>，服务器会找不到 <code>wechat.jpg</code>，导致返回“404 Not Found”错误。</p><blockquote><p><strong>建议</strong>：在上传文件或编写路径时，统一使用小写扩展名，确保本地与服务器环境一致，避免因大小写问题导致资源无法访问。</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 项目 </tag>
+            
+            <tag> 经验 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>go项目基础第一天</title>
       <link href="/2025/09/15/go%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%E7%AC%AC%E4%B8%80%E5%A4%A9/"/>
       <url>/2025/09/15/go%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
@@ -193,9 +214,9 @@
             
             <tag> Go </tag>
             
-            <tag> 编程语言 </tag>
-            
             <tag> 标识符和常用指令 </tag>
+            
+            <tag> 编程语言 </tag>
             
         </tags>
       
