@@ -39,11 +39,11 @@
       
         <tags>
             
-            <tag> 能源 </tag>
-            
             <tag> 焦化 </tag>
             
             <tag> 钢铁 </tag>
+            
+            <tag> 能源 </tag>
             
             <tag> 工业 </tag>
             
@@ -158,9 +158,9 @@
             
             <tag> Go </tag>
             
-            <tag> 编程语言 </tag>
-            
             <tag> 结构体和并发 </tag>
+            
+            <tag> 编程语言 </tag>
             
         </tags>
       
@@ -283,9 +283,9 @@
             
             <tag> Go </tag>
             
-            <tag> 标识符和常用指令 </tag>
-            
             <tag> 编程语言 </tag>
+            
+            <tag> 标识符和常用指令 </tag>
             
         </tags>
       
