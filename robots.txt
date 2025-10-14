@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+
+Sitemap: https://blog.midlight.top/sitemap.xml
+Sitemap: https://blog.midlight.top/baidusitemap.xml
