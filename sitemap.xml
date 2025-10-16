@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.midlight.top/2025/10/16/%E7%94%B5%E8%84%91%E4%B8%BB%E6%9C%BA%E4%B8%AD%E7%9A%84%E9%80%9A%E4%BF%A1%E5%8D%8F%E8%AE%AE/</loc>
+    
+    <lastmod>2025-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.midlight.top/2025/10/16/FPGA%E4%B8%AD%E7%9A%84wire%E5%92%8Creg%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%EF%BC%9F/</loc>
+    
+    <lastmod>2025-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.midlight.top/2025/10/14/%E4%BB%80%E4%B9%88%E6%98%AF%E7%94%9F%E7%89%A9%E8%B4%A8%E6%B0%94%E5%8C%96%E7%82%89%EF%BC%9F/</loc>
     
     <lastmod>2025-10-14</lastmod>
@@ -211,183 +229,211 @@
 
   <url>
     <loc>https://blog.midlight.top/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://blog.midlight.top/tags/Go/</loc>
-    <lastmod>2025-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.midlight.top/tags/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2025-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.midlight.top/tags/%E7%BB%93%E6%9E%84%E4%BD%93%E5%92%8C%E5%B9%B6%E5%8F%91/</loc>
-    <lastmod>2025-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.midlight.top/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.midlight.top/tags/butterfly/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.midlight.top/tags/%E6%A0%87%E8%AF%86%E7%AC%A6%E5%92%8C%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <loc>https://blog.midlight.top/tags/FPGA/</loc>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.midlight.top/tags/%E5%88%87%E7%89%87%E3%80%81%E9%9B%86%E5%90%88%E5%92%8C%E6%8C%87%E9%92%88/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <loc>https://blog.midlight.top/tags/%E8%AF%AD%E6%B3%95/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.midlight.top/tags/Go/</loc>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.midlight.top/tags/%E5%8F%98%E9%87%8F%E4%BB%A5%E5%8F%8A%E4%BD%9C%E7%94%A8%E5%9F%9F/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.midlight.top/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.midlight.top/tags/%E5%88%87%E7%89%87%E3%80%81%E9%9B%86%E5%90%88%E5%92%8C%E6%8C%87%E9%92%88/</loc>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.midlight.top/tags/%E9%80%92%E5%BD%92%E8%BF%AD%E4%BB%A3%E4%B8%8E%E6%8E%A5%E5%8F%A3/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.midlight.top/tags/%E6%96%87%E4%BB%B6%E5%A4%84%E7%90%86%E5%92%8C%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <loc>https://blog.midlight.top/tags/%E6%A0%87%E8%AF%86%E7%AC%A6%E5%92%8C%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/</loc>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.midlight.top/tags/%E9%A1%B9%E7%9B%AE/</loc>
-    <lastmod>2025-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.midlight.top/tags/%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2025-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.midlight.top/tags/%E6%A2%A6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9C%B0%E6%96%B9/</loc>
-    <lastmod>2025-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.midlight.top/tags/hexo/</loc>
-    <lastmod>2025-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.midlight.top/tags/%E8%BE%93%E5%87%BA%E6%A0%BC%E5%BC%8F%E7%AC%A6/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <loc>https://blog.midlight.top/tags/%E7%BB%93%E6%9E%84%E4%BD%93%E5%92%8C%E5%B9%B6%E5%8F%91/</loc>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.midlight.top/tags/%E8%83%BD%E6%BA%90/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.midlight.top/tags/%E7%8E%AF%E4%BF%9D/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.midlight.top/tags/%E9%A1%B9%E7%9B%AE/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.midlight.top/tags/%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.midlight.top/tags/hexo/</loc>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.midlight.top/tags/%E7%84%A6%E5%8C%96/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.midlight.top/tags/%E9%92%A2%E9%93%81/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.midlight.top/tags/%E5%B7%A5%E4%B8%9A/</loc>
-    <lastmod>2025-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.midlight.top/tags/%E7%BB%8F%E9%AA%8C/</loc>
-    <lastmod>2025-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.midlight.top/tags/%E8%AF%84%E8%AE%BA/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.midlight.top/tags/%E7%85%A4%E6%B0%94/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.midlight.top/tags/%E7%A7%91%E6%99%AE/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.midlight.top/tags/%E5%AE%89%E5%85%A8/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.midlight.top/tags/%E9%80%9A%E4%BF%A1%E5%8D%8F%E8%AE%AE/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.midlight.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.midlight.top/tags/%E6%96%87%E4%BB%B6%E5%A4%84%E7%90%86%E5%92%8C%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.midlight.top/tags/%E7%BB%8F%E9%AA%8C/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.midlight.top/tags/%E8%AF%84%E8%AE%BA/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.midlight.top/tags/%E8%BE%93%E5%87%BA%E6%A0%BC%E5%BC%8F%E7%AC%A6/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.midlight.top/tags/%E6%A2%A6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9C%B0%E6%96%B9/</loc>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
