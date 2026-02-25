@@ -51,8 +51,8 @@ FeynmanNddbb.github.io/
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/FeynmanNddbb/FeynmanNddbb.github.io.git
-cd FeynmanNddbb.github.io
+git clone https://github.com/FeynmanNddbb/FirstBlog.git
+cd FirstBlog
 ```
 
 2. **启动本地服务器**
@@ -124,7 +124,7 @@ git push origin main
 
 ## 🔗 相关链接
 
-- GitHub：https://github.com/FeynmanNddbb
+- GitHub：https://github.com/FeynmanNddbb/FirstBlog
 - 博客：https://blog.midlight.top/
 - 链接页面：/link/
 
