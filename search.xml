@@ -4,11 +4,40 @@
   
     
     <entry>
+      <title>个人 AI 生产力工具配置指南</title>
+      <link href="/2026/03/09/%E4%B8%AA%E4%BA%BA%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7%E9%85%8D%E7%BD%AE/"/>
+      <url>/2026/03/09/%E4%B8%AA%E4%BA%BA%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7%E9%85%8D%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<p>随着 AI Coding 工具百花齐放，如何合理搭配、按需选择，是每一个开发者都值得思考的问题。本文分享我当前的 AI 生产力工具配置方案，以及背后的选型思路。</p><hr><h2 id="🧠-Antigravity-——-文档与任务担当"><a href="#🧠-Antigravity-——-文档与任务担当" class="headerlink" title="🧠 Antigravity —— 文档与任务担当"></a>🧠 Antigravity —— 文档与任务担当</h2><blockquote><p><strong>账号来源：</strong> Google 学生账号</p></blockquote><p>Antigravity 是我处理<strong>文档、任务管理和 Skill 开发</strong>的主力工具。</p><ul><li>可用模型：<strong>Claude</strong>、<strong>Gemini</strong></li><li>Thinking 模型和 Lite 模型的额度<strong>独立计算</strong>，互不影响</li><li>核心用途：<ul><li>📝 文档撰写与排版</li><li>✅ 任务规划与管理</li><li>🛠️ Skill 创建与迭代</li></ul></li></ul><hr><h2 id="💻-Copilot-——-开发与工程担当"><a href="#💻-Copilot-——-开发与工程担当" class="headerlink" title="💻 Copilot —— 开发与工程担当"></a>💻 Copilot —— 开发与工程担当</h2><blockquote><p><strong>账号来源：</strong> GitHub 学生账号</p></blockquote><p>Copilot 是我在<strong>开发、工程和 Coding</strong> 场景下的首选。</p><ul><li>可用模型：<strong>GPT</strong>、<strong>Claude</strong></li><li>核心用途：<ul><li>🔧 代码编写与补全</li><li>🏗️ 工程化开发</li><li>🐛 调试与重构</li></ul></li></ul><hr><h2 id="🐾-OpenClaw-——-娱乐与国产支持"><a href="#🐾-OpenClaw-——-娱乐与国产支持" class="headerlink" title="🐾 OpenClaw —— 娱乐与国产支持"></a>🐾 OpenClaw —— 娱乐与国产支持</h2><blockquote><p><strong>套餐：</strong> 国产大模型 Plan 套餐</p></blockquote><p>OpenClaw 主要作为<strong>娱乐用途</strong>，同时也是对国产大模型的一种支持。</p><ul><li>搜索功能（Searching）可用</li><li>⚠️ 反代国外模型容易封号，不推荐</li><li>用量需求不大，买个国内套餐即可</li><li>🇨🇳 <strong>支持国产，从我做起！</strong></li></ul><hr><h2 id="⏳-Claude-Code-——-静候入场"><a href="#⏳-Claude-Code-——-静候入场" class="headerlink" title="⏳ Claude Code —— 静候入场"></a>⏳ Claude Code —— 静候入场</h2><p>Claude Code 目前暂不配置，原因如下：</p><ul><li><strong>Skill 能力</strong> → 已有 Antigravity 覆盖</li><li><strong>Coding 能力</strong> → 已有 Copilot 覆盖</li><li>当前 Token 价格偏高，但 <strong>Token 内卷是大趋势</strong></li></ul><h3 id="📈-等什么时候入场？"><a href="#📈-等什么时候入场？" class="headerlink" title="📈 等什么时候入场？"></a>📈 等什么时候入场？</h3><p>等 Token 降价！坐等各家价格战。</p><blockquote><p>同时值得关注的是，官方下场补贴 OpenClaw，<strong>长期利好电网和光模块</strong>板块 💡</p></blockquote><hr><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><table><thead><tr><th>工具</th><th>账号来源</th><th>主要用途</th><th>当前状态</th></tr></thead><tbody><tr><td><strong>Antigravity</strong></td><td>Google 学生账号</td><td>文档 &#x2F; 任务 &#x2F; Skill</td><td>✅ 已配置</td></tr><tr><td><strong>Copilot</strong></td><td>GitHub 学生账号</td><td>开发 &#x2F; 工程 &#x2F; Coding</td><td>✅ 已配置</td></tr><tr><td><strong>OpenClaw</strong></td><td>国产套餐</td><td>娱乐 &#x2F; 支持国产</td><td>✅ 已配置</td></tr><tr><td><strong>Claude Code</strong></td><td>—</td><td>全能但暂缓</td><td>⏳ 等降价</td></tr></tbody></table><p>合理分工、按需配置，让每一分钱都花在刀刃上 🎯</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 生产力 </tag>
+            
+            <tag> 工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>朋友留言页</title>
       <link href="/2026/03/06/%E6%9C%8B%E5%8F%8B%E7%95%99%E8%A8%80%E9%A1%B5/"/>
       <url>/2026/03/06/%E6%9C%8B%E5%8F%8B%E7%95%99%E8%A8%80%E9%A1%B5/</url>
       
-        <content type="html"><![CDATA[<h2 id="欢迎留言！"><a href="#欢迎留言！" class="headerlink" title="欢迎留言！"></a>欢迎留言！</h2><p>这是一个朋友们可以互动交流的留言页面。欢迎在下方评论区分享你的想法、建议或问候～</p><h3 id="📝-留言指南"><a href="#📝-留言指南" class="headerlink" title="📝 留言指南"></a>📝 留言指南</h3><ul><li>保持言论文明、健康、积极向上</li><li>欢迎分享你的有趣故事或观点</li><li>可以互相交流、鼓励和支持</li><li>我会尽量回复每一条留言</li></ul><h3 id="💬-与我联系"><a href="#💬-与我联系" class="headerlink" title="💬 与我联系"></a>💬 与我联系</h3><p>如果你想更直接地和我沟通，也可以通过以下方式：</p><ul><li><strong>邮箱：</strong> <a href="mailto:&#x33;&#x35;&#53;&#51;&#51;&#48;&#51;&#x33;&#49;&#x35;&#x40;&#113;&#x71;&#46;&#99;&#x6f;&#x6d;">3553303315@qq.com</a></li><li><strong>微信&#x2F;QQ：</strong> 见页面右下角社交媒体链接</li></ul><p>期待你的留言！✨</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="欢迎留言！"><a href="#欢迎留言！" class="headerlink" title="欢迎留言！"></a>欢迎留言！</h2><p>这是一个朋友们可以互动交流的留言页面。欢迎在下方评论区分享你的想法、建议或问候～</p><h3 id="📝-留言指南"><a href="#📝-留言指南" class="headerlink" title="📝 留言指南"></a>📝 留言指南</h3><ul><li>保持言论文明、健康、积极向上</li><li>欢迎分享你的有趣故事或观点</li><li>可以互相交流、鼓励和支持</li><li>我会尽量回复每一条留言</li></ul><h3 id="💬-与我联系"><a href="#💬-与我联系" class="headerlink" title="💬 与我联系"></a>💬 与我联系</h3><p>如果你想更直接地和我沟通，也可以通过以下方式：</p><ul><li><strong>邮箱：</strong> <a href="mailto:&#x33;&#x35;&#x35;&#51;&#x33;&#48;&#51;&#51;&#x31;&#53;&#x40;&#x71;&#x71;&#46;&#x63;&#x6f;&#109;">3553303315@qq.com</a></li><li><strong>微信&#x2F;QQ：</strong> 见页面右下角社交媒体链接</li></ul><p>期待你的留言！✨</p>]]></content>
       
       
       
